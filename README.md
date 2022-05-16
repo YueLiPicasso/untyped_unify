@@ -2,7 +2,7 @@
 
 We propose a perspective to view OCaml runtime values as first-order terms, and provide an algorithm for their unification. There are also pretty-printers for inspecting the values and the results of unification.
 
-Online doc/tutorial](https://yuelipicasso.github.io/untyped_unify_doc/Untyped_unify.html).
+[Online doc/tutorial](https://yuelipicasso.github.io/untyped_unify_doc/Untyped_unify.html).
 
 Build documentation:
 ```
